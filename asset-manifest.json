@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechProject/static/css/main.073c9b0a.css",
+    "main.js": "/TechProject/static/js/main.a8af9705.js",
+    "static/js/787.4c026eef.chunk.js": "/TechProject/static/js/787.4c026eef.chunk.js",
+    "index.html": "/TechProject/index.html",
+    "main.073c9b0a.css.map": "/TechProject/static/css/main.073c9b0a.css.map",
+    "main.a8af9705.js.map": "/TechProject/static/js/main.a8af9705.js.map",
+    "787.4c026eef.chunk.js.map": "/TechProject/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8af9705.js"
+  ]
+}
